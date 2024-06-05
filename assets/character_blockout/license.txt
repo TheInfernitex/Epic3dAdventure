@@ -1,0 +1,11 @@
+Model Information:
+* title:	Character Blockout
+* source:	https://sketchfab.com/3d-models/character-blockout-cf7a9a24bccf4c1d8b71bb83c3a8eea1
+* author:	Nancy.Z (https://sketchfab.com/nancy.Z)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Character Blockout" (https://sketchfab.com/3d-models/character-blockout-cf7a9a24bccf4c1d8b71bb83c3a8eea1) by Nancy.Z (https://sketchfab.com/nancy.Z) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
