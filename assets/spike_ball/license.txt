@@ -1,0 +1,11 @@
+Model Information:
+* title:	spike ball
+* source:	https://sketchfab.com/3d-models/spike-ball-91bd3ae614a64beebe214158cd455800
+* author:	alan96922 (https://sketchfab.com/alan96922)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "spike ball" (https://sketchfab.com/3d-models/spike-ball-91bd3ae614a64beebe214158cd455800) by alan96922 (https://sketchfab.com/alan96922) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

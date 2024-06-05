@@ -1,0 +1,38 @@
+.play-regular {
+  font-family: "Play", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.play-bold {
+  font-family: "Play", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+body{
+  margin: 0;
+  overflow: hidden;
+}
+#ui{
+  margin: 0;
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+h1, h2{
+  color:whitesmoke;
+}
+#Credit{
+  z-index: 1;
+  margin-top:85vh;
+  font-size: x-small;
+}
+.unselectable {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
